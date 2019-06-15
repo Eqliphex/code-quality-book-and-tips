@@ -1,11 +1,11 @@
 # Purpose of repository
-This repo will mainly be for personal and educational use with the purpose of spreading awareness of the materials in a ordered manner. 
+This repo will mainly be for personal and educational use, with the purpose of spreading awareness of the materials in a more manageable manner. 
 
-Different books and discussion entries will continually be added for future use.
+Additional books and discussion entries, will continually be added as i find them.
 
 Suggestions and additions are more than welcome.
 
-**ALL REFERENCED MATERIALS ARE NOT MINE AND ARE FOUND USING SEACH ENGINES. IF YOU LIKE ANY OF THE BOOKS, CONSIDER BYING THEM IN ORDER TO SUPPORT THE AUTHORS OF THESE AMAZING BOOKS!**
+**ALL OF THE REFERENCED MATERIALS IS NOT MINE, AND ARE FOUND USING SEACH ENGINES. <br>IF YOU LIKE ANY OF THE BOOKS, CONSIDER BYING THEM, IN ORDER TO SUPPORT THE AUTHORS!**
 
 # Index:
 _**Sources:**_
