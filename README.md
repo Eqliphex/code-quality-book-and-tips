@@ -4,6 +4,18 @@ This repo will mainly be for personal and educational use, where different books
 Suggestions and additions are more than welcome.
 
 **ALL REFERENCED MATERIAL ARE NOT MINE, AND YOU SHOULD BUY THE THEM IF YOU LIKE THEM, TO SUPPORT THE AUTHORS OF THESE AMAZING BOOKS!**
+
+# Index:
+_**Sources:**_
+* [Source list](https://github.com/Eqliphex/code-quality-books-and-tips#sources-of-book-suggestions)
+
+_**Books:**_
+* [Code Quality](https://github.com/Eqliphex/code-quality-books-and-tips#topic-code-quality)
+* [Unit Testing](https://github.com/Eqliphex/code-quality-books-and-tips#topic-unit-testing)
+
+_**Discussions:**_
+* [Code stability](https://github.com/Eqliphex/code-quality-books-and-tips#9-points-to-consider-when-making-good-software)
+
 # List of books
 
 ## Sources of book suggestions
@@ -26,6 +38,7 @@ Suggestions and additions are more than welcome.
    * 
    
 # Discussions
+## 9 points to consider when making good software 
 * Source [Quora](https://www.quora.com/What-are-some-good-books-about-code-quality) - Satyendra (Satya) Kondagari
   1. **Understand the Functional requirements** very well.. Even though you code great, you will still have issues, if some of the      requirements are NOT understood properly.
   2. Discuss and **finalize the Non-functional requirements** too. For example : concurrent uses , peak days of usage of application, performance related discussions etc.
