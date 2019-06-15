@@ -1,7 +1,9 @@
 # Purpose of repository
 This repo will mainly be for personal and educational use, where different books and discussion entries continually will be added for future use.
+
 Suggestions and additions are more than welcome.
 
+**ALL REFERENCED MATERIAL ARE NOT MINE, AND YOU SHOULD BUY THE THEM IF YOU LIKE THEM, TO SUPPORT THE AUTHORS OF THESE AMAZING BOOKS!**
 # List of books
 ## Topic: Code Quality
 * Source [Quora](https://www.quora.com/What-are-some-good-books-about-code-quality) - Tushar Sharma
