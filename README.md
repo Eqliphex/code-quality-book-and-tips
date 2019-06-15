@@ -31,6 +31,8 @@ _**Discussions:**_
 * _Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell_ -<br> _[PDF-Download](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)_
 * _Code Quality: The Open Source Perspective: Diomidis Spinellis_ - <br> _[Amazon](https://www.amazon.com/gp/product/0321166078/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0321166078&ie=UTF8&linkCode=as2&linkId=YEMB3NJPSFIMX6ZR&tag=croc03-20)_
 * _Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin_ -<br> _[PDF-Download](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)_
+* _The Clean Coder: A Code of Conduct for Professional Programmers: Robert C. Martin_ -<br> _[Amazon](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_
+
 * _Refactoring for Software Design Smells: Managing Technical Debt_ - <br> _[Amazon](https://www.amazon.com/Refactoring-Software-Design-Smells-Technical-ebook/dp/B00PIREN5I)_
   
 * _Working Effectively with Legacy Code by Michael Feathers_ -<br> _[PDF-Download](https://github.com/oolee/software-development-ebooks/blob/master/%5BWorking%20Effectively%20with%20Legacy%20Code%20(Robert%20C.%20Martin%20Series)%20Kindle%20Edition%20by%20Michael%20Feathers%20-%202005%5D.pdf)_
