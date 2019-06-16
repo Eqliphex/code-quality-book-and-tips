@@ -16,7 +16,7 @@ _**Books:**_
 * [Code Testing](https://github.com/Eqliphex/code-quality-books-and-tips#topic-code-testing)
   * _[C# and .NET](https://github.com/Eqliphex/code-quality-books-and-tips#c#-and-.net)_
   * _[Python](https://github.com/Eqliphex/code-quality-books-and-tips#python)_
-* _[Computer Networking](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-networking)_
+* [Computer Networking](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-networking)
   
 _**Discussions:**_
 * [Code stability](https://github.com/Eqliphex/code-quality-books-and-tips#9-points-to-consider-when-making-good-software)
