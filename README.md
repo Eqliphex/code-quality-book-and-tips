@@ -17,6 +17,8 @@ _**Books:**_
   * _[C# and .NET](https://github.com/Eqliphex/code-quality-books-and-tips#c#-and-.net)_
   * _[Python](https://github.com/Eqliphex/code-quality-books-and-tips#python)_
 * [Computer Networking](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-networking)
+* [Cyber Security](https://github.com/Eqliphex/code-quality-books-and-tips#topic-cyber-security)
+
   
 _**Discussions:**_
 * [Code stability](https://github.com/Eqliphex/code-quality-books-and-tips#9-points-to-consider-when-making-good-software)
@@ -48,6 +50,10 @@ _**Discussions:**_
 
 ## Topic: Computer Networking
 * _Computer Networking - A Top Down Approach 6th ed.: Jim Kurose_ - <br> _[PDF-Download](http://ce.sharif.edu/courses/94-95/2/ce443-3/resources/root/Book/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf)_
+
+## Topic: Cyber Security
+* _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-pdf/)_
+
 
 # Discussions
 ## 9 points to consider when making good software 
