@@ -12,6 +12,7 @@ _**Sources:**_
 * [Source list](https://github.com/Eqliphex/code-quality-books-and-tips#sources-of-book-suggestions)
 
 _**Books:**_
+* [Computer History](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-history)
 * [Code Quality](https://github.com/Eqliphex/code-quality-books-and-tips#topic-code-quality)
 * [Code Testing](https://github.com/Eqliphex/code-quality-books-and-tips#topic-code-testing)
   * _[C# and .NET](https://github.com/Eqliphex/code-quality-books-and-tips#c#-and-.net)_
@@ -28,6 +29,9 @@ _**Discussions:**_
 ## Sources of book suggestions
 * [Quora](https://www.quora.com/What-are-some-good-books-about-code-quality) - Tushar Sharma
 * [Webpage](https://qualitycoding.org/books/) - [Jon Reid](https://twitter.com/qcoding)
+
+## Topic: Computer History
+* _The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine: Charles Petzold_ -<br> _[Amazon](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)_
 
 ## Topic: Code Quality
 * _Refactoring: Improving the Design of Existing Code: Martin Fowler_ -<br> _[PDF-Download](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)_
