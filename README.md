@@ -29,6 +29,7 @@ _**Discussions:**_
 ## Sources of book suggestions
 * [Quora](https://www.quora.com/What-are-some-good-books-about-code-quality) - Tushar Sharma
 * [Webpage](https://qualitycoding.org/books/) - [Jon Reid](https://twitter.com/qcoding)
+* [Amazon](https://www.amazon.com/slp/math-for-computer-science/9xwxzh4d2am332r)
 
 ## Topic: Computer History
 * _The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine: Charles Petzold_ -<br> _[Amazon](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)_
@@ -55,7 +56,10 @@ _**Discussions:**_
 * _Computer Networking - A Top Down Approach 6th ed.: Jim Kurose_ - <br> _[PDF-Download](http://ce.sharif.edu/courses/94-95/2/ce443-3/resources/root/Book/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf)_
 
 ## Topic: Cyber Security
-* _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-pdf/)_
+* _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-p)
+
+## Topic: Computer Mathematics
+* _Concrete Mathematics: A Foundation for Computer Science (2nd Edition): Ronald L Graham _ - <br> _[Amazon](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025?ref_=fsclp_pl_dp_1)
 
 
 # Discussions
