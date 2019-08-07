@@ -19,6 +19,7 @@ _**Books:**_
   * _[Python](https://github.com/Eqliphex/code-quality-books-and-tips#python)_
 * [Computer Networking](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-networking)
 * [Cyber Security](https://github.com/Eqliphex/code-quality-books-and-tips#topic-cyber-security)
+* [Computer Mathematics](https://github.com/Eqliphex/code-quality-books-and-tips#topic-computer-mathematics)
 
   
 _**Discussions:**_
@@ -56,10 +57,10 @@ _**Discussions:**_
 * _Computer Networking - A Top Down Approach 6th ed.: Jim Kurose_ - <br> _[PDF-Download](http://ce.sharif.edu/courses/94-95/2/ce443-3/resources/root/Book/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf)_
 
 ## Topic: Cyber Security
-* _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-p)
+* _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-p)_
 
 ## Topic: Computer Mathematics
-* _Concrete Mathematics: A Foundation for Computer Science (2nd Edition): Ronald L Graham _ - <br> _[Amazon](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025?ref_=fsclp_pl_dp_1)
+* _Concrete Mathematics: A Foundation for Computer Science (2nd Edition): Ronald L Graham_ - <br> _[Amazon](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025?ref_=fsclp_pl_dp_1)_
 
 
 # Discussions
