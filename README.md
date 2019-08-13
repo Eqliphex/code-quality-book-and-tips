@@ -44,6 +44,7 @@ _**Discussions:**_
 * _Refactoring for Software Design Smells: Managing Technical Debt_ - <br> _[Amazon](https://www.amazon.com/Refactoring-Software-Design-Smells-Technical-ebook/dp/B00PIREN5I)_
 * _Working Effectively with Legacy Code by Michael Feathers_ -<br> _[PDF-Download](https://github.com/oolee/software-development-ebooks/blob/master/%5BWorking%20Effectively%20with%20Legacy%20Code%20(Robert%20C.%20Martin%20Series)%20Kindle%20Edition%20by%20Michael%20Feathers%20-%202005%5D.pdf)_
 * _Adaptive Code: Agile coding with design patterns and SOLID principles (2nd Edition): Gary Hall_ -<br> _[Amazon](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)_ 
+* _Programming Pearls (2nd Edition): Jon Bentley_ -<br> _[Amazon](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)_
  
 ## Topic: Code Testing
 ### C# and .NET
