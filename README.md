@@ -59,6 +59,9 @@ _**Discussions:**_
 
 ## Topic: Cyber Security
 * _Tribe of Hackers: Marcus J. Carey & Jennifer Jin_ - <br> _[PDF-Download](https://www.threatcare.com/tribe-of-hackers-free-p)_
+* _Software Security: Building Security In: Gary McGraw_ - <br> _[Amazon](https://www.amazon.com/Software-Security-Building-Gary-McGraw/dp/0321356705)_
+* _Building Secure Software: How to Avoid Security Problems the Right Way: John Vega & Gary McGraw_ - <br> _[Amazon](https://www.amazon.com/Building-Secure-Software-Addison-wesley-Professional/dp/0321774957)_
+* _Writing Secure Code: Micheal Howard & David LeBlanc_ - <br> _[Amazon](https://www.amazon.com/Writing-Secure-Second-Developer-Practices/dp/0735617228)_
 
 ## Topic: Computer Mathematics
 * _Concrete Mathematics: A Foundation for Computer Science (2nd Edition): Ronald L Graham_ - <br> _[Amazon](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025?ref_=fsclp_pl_dp_1)_
